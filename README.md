@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hariprakash P</h1>
+<h1 align="center">Hi, I'm Hariprakash P</h1>
 <h3 align="center">Electronics & Communication Engineer | Python Developer | LabVIEW CLAD Certified</h3>
 
 <p align="center">
@@ -12,8 +12,9 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 Final-year **Electronics and Communication Engineering** student at **Mahendra Institute of Technology, Namakkal** (CGPA: 7.8)
+- 🎓Currently studying in Python fullstack developer at IPCS Global Coimbatore.
 - 🏆 **CLAD Certified** in LabVIEW (Score: 82%)
-- 🌱 Passionate about **Machine Learning**, **Automation**, and **Embedded Systems**
+- 🌱 Passionate about **Frontend web development**, **Coding and Debugging**, and **Create Web applications**
 - 🐍 Python Intern @ **Emglitz Technologies** (Jan 2025)
 - 📫 Reach me at **hariprakashmit@gmail.com**
 - 🌍 Languages: **Tamil**, **English**
@@ -65,8 +66,8 @@
 
 | Certification | Score / Grade |
 |---|---|
-| 🏅 LabVIEW CLAD Certification | 82% |
 | 🐍 Python Certification | Grade A |
+| 🏅 LabVIEW CLAD Certification | 82% |
 
 ---
 
