@@ -74,11 +74,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" alt="Hariprakash's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hariprakash-git123&show_icons=true&theme=tokyonight" alt="Hariprakash's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariprakash-git123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
