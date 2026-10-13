@@ -16,6 +16,7 @@
 - 🏆 **CLAD Certified** in LabVIEW (Score: 82%)
 - 🌱 Passionate about **Frontend web development**, **Coding and Debugging**, and **Create Web applications**
 - 🐍 Python Intern @ **Emglitz Technologies** (Jan 2025)
+- Software Developer Intern @ **PeaceHaven** (August-oct 2026)
 - 📫 Reach me at **hariprakashmit@gmail.com**
 - 🌍 Languages: **Tamil**, **English**
 
